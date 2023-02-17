@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shxhbukx&label=Profile%20views&color=0e75b6&style=flat" alt="shxhbukx" /> </p>
 
-<p align="left"> <a href="https://twitter.com/realshehriyar" target="blank"><img src="https://img.shields.io/twitter/follow/realshehriyar?logo=twitter&style=for-the-badge" alt="realshehriyar" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shxhbukx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shxhbukx" height="30" width="40" /></a>
